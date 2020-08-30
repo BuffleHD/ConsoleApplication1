@@ -1,0 +1,1342 @@
+﻿"C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\jbr\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\lib\idea_rt.jar=15761:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Rares\IdeaProjects\untitled9\target\test-classes;C:\Users\Rares\.m2\repository\com\sun\activation\javax.activation\1.2.0\javax.activation-1.2.0.jar;C:\Users\Rares\.m2\repository\com\sun\mail\javax.mail\1.6.0\javax.mail-1.6.0.jar;C:\Users\Rares\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar Main
+200
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="de" />
+<meta name="publisher" content="MC-Host24 / Gericke KG" />
+<meta name="copyright" content="MC-Host24 / Gericke KG" />
+<meta name="description" content="MC-HOST24 bietet dir günstige Minecraft Server auf Prepaid-Basis ohne Slotbegrenzung zu günstigen Preisen an" />
+<meta name="keywords" content="minecraft server mieten, minecraft server miete, minecraft server mieten kostenlos, minecraft server kaufen, minecraft anbieter, gameserver, paysafecard, paypal, minecraftserver, hosting, prepaid" />
+<meta name="author" content="Sascha Gericke" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="mc-host24.de" />
+<meta property="og:description" content="MC-HOST24 bietet dir günstige Minecraft Server auf Prepaid-Basis ohne Slotbegrenzung zu günstigen Preisen an" />
+<meta property="og:url" content="https://mc-host24.de" />
+<meta property="og:site_name" content="MC-HOST24" />
+<title>Günstige Minecraft Server, Domains und Rootserver auf Prepaidbasis &mdash; MC-HOST24</title>
+<meta name="robots" content="index,follow">
+<meta http-equiv="pragma" content="no-cache">
+<meta name="google-site-verification" content="uBo2sPVFbC9L5ViNq8VV75wd-Ao-MmrQ3qZivO7GF8k" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+<meta name="csrf-token" content="wo1k2JiqOoWPzadC9HNHdRiKZPU90l8K8rrWCm5k" />
+<meta name="twitter:dnt" content="on" />
+<meta name="apple-itunes-app" content="app-id=1492171399">
+<link href="/assets/img/favicon/32px-mc-host24.ico" rel="shortcut icon" type="image/x-icon">
+<script src="/assets/js/wow.min.js?reload=v1"></script>
+<link rel="stylesheet" href="/assets/css/animate.css?reload=v1">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+<script>
+        new WOW().init();
+    </script>
+<style>
+        .wow {
+            visibility: hidden;
+        }
+    </style>
+<link rel="stylesheet" href="/assets/bootstrap/bootstrap.min.css?reload=v3" />
+<link rel="stylesheet" href="/assets/css/main.css?reload=v1" />
+<link rel="stylesheet" href="/assets/css/slider.css" />
+<link rel="stylesheet" href="/assets/css/icomoon.css?reload=v1" />
+<link rel="stylesheet" href="/assets/css/2018/mchost.css?reload=v2" />
+<link rel="stylesheet" href="/assets/css/helpers.min.css?reload=v1" />
+<link rel="stylesheet" href="/assets/css/jquery-ui.min.css?reload=v1" />
+<link rel="stylesheet" href="/assets/css/dataTables.bootstrap.min.css?reload=v1" />
+<link rel="stylesheet" href="/assets/css/jquery-ui.min.css?reload=v1" />
+<link rel="stylesheet" href="/assets/fonts/font-awesome.min.css" />
+<link rel="stylesheet" href="/assets/css/jquery.carousel.css?reload=v1" />
+<link rel="stylesheet" href="/assets/css/jquery.jscrollpane.css?reload=v1" media="all" />
+<link rel="stylesheet" href="/assets/css/fontawesome-stars.css?reload=v1" />
+<link rel="stylesheet" href="/assets/css/select2.min.css?reload=v1" />
+<link rel="stylesheet" href="/assets/vendor/slick/slick.css" />
+<link rel="stylesheet" href="/assets/vendor/slick/slick-theme.css" />
+<link rel="stylesheet" href="/assets/css/select2-bootstrap.min.css?reload=v1" />
+<link rel="stylesheet" href="/assets/css/mcnav.css" />
+<link rel="stylesheet" href="/assets/css/fonts/rajdhani/rajdhani.css">
+<link rel="stylesheet" href="/assets/css/fonts/roboto/roboto.css">
+<script src="/assets/js/jquery-3.3.1.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/simplebar@latest/dist/simplebar.css" />
+<script src="https://unpkg.com/simplebar@latest/dist/simplebar.js"></script>
+<script src="/assets/js/route.js"></script>
+
+<script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/5f36fbe4b7f44f406e94f55e/default';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+    </script>
+
+</head>
+<body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+<div class="page-content-wrapper" id="page-content-wrapper">
+<nav class="navbar navbar-inverse navbar-fixed-top" id="navbar-main">
+<div style="height:60px;width: 100%; background: #9b1212;color:white;" class="hidden-sm">
+<div class="row" style="padding-top:13px;">
+<div class="col-md-offset-2 col-md-8">
+<div class="row">
+<div class="col-md-7">
+<p class="text-center rajdhani" style="font-size: 20px; font-weight: 600; line-height: 20px; margin: 6px 0 0;">
+Wir schenken dir 30 % auf jede Aufladung bis zum 31.08.2020!
+</p>
+</div>
+<div class="col-md-2">
+<a href="#" class="btn btn-block btn-default" data-target="#anmelden" data-toggle="modal">Anmelden</a>
+</div>
+</div>
+</div>
+<div class="col-md-1">
+<a href="#" style="font-size: 25px;line-height: 30px;color: #d2d2d2;" onclick="document.cookie='hide_credit_promotion_111547=true; expires=Tue, 01 Jan 2025 00:00:00 UTC; path=/;'; document.location = '';"><i class="fa fa-times"></i></a>
+</div>
+</div>
+</div>
+<div class="container-fluid" style="max-width: 1400px;">
+<div class="">
+<div class="navbar-header vertical-center">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a id="logo" class="navbar-brand" href="/"><img id="brand-logo-image" src="/assets/img/logo/80px-mc-host24-logo.png"></a>
+</div>
+<div class="navbar-collapse navbar-right collapse">
+<ul style="" class="nav navbar-nav">
+<li><a href="/" class="menu" style="">Home</a></li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Games<span class="hidden-xs hidden-sm hidden-md">erver</span><span class="caret"></span></a>
+<ul class="dropdown-menu material" style="outline: none; border: none;">
+<li><a href="/minecraft-server-mieten" class="menu" style="">Minecraft</a></li>
+<li><a href="/gameserver-mieten/arma3" class="menu" style="">ArmA 3</a></li>
+<li><a href="/gameserver-mieten/csgo" class="menu" style="">Counter-Strike: GO</a></li>
+<li><a href="/gameserver-mieten/gmod" class="menu" style="">Garry&#039;s Mod</a></li>
+<li><a href="/gameserver-mieten/tf2" class="menu" style="">Team Fortress 2</a></li>
+<li><a href="/gameserver-mieten/ark" class="menu" style="">ARK: Survival Evolved</a></li>
+</ul>
+ </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Rootserver<span class="caret"></span></a>
+<ul class="dropdown-menu material" style="outline: none; border: none;">
+<li><a href="/rootserver-mieten" class="menu" style="">Linux Rootserver</a></li>
+<li><a href="/windows-rootserver-mieten" class="menu" style="">Windows Rootserver</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Teamspeak<span class="caret"></span></a>
+<ul class="dropdown-menu material" style="outline: none; border: none;">
+<li><a href="/teamspeak-server-mieten" class="menu" style="">Teamspeak 3 Server mieten</a></li>
+<li><a href="/musicbot-mieten">Musicbot mieten</a></li>
+</ul>
+</li>
+<li><a href="/webspace-mieten" class="menu">Webspace</a></li>
+<li><a href="/domain-mieten" class="menu">Domains</a></li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support <span class="caret"></span></a>
+<ul class="dropdown-menu material" style="outline: none; border: none;">
+<li><a href="/support">Zum Support</a></li>
+<li><a href="/faq">FAQ</a></li>
+<li><a href="/technik">Unsere Technik</a></li>
+<li><a href="https://mc-host24.de/elterninfo">Elterninfo</a></li>
+</ul>
+</li>
+<li class="dropdown" id="user-menu">
+<a href="#" class="" data-toggle="dropdown" id="loginButton">
+<img class="toggle" style="height: 22px; margin-top: 0; display: inline-block;" src="/assets/img/ui/icons8-administrator-male-white-100.png"> Anmelden
+</a>
+<ul class="dropdown-menu text-center" role="menu">
+<li class="text-center">
+<p>
+Du bist nicht eingeloggt.
+</p>
+</li>
+<li class="divider"></li>
+<li>
+<a data-toggle="modal" data-target="#anmelden" href="#"><b><i class="fa fa-lock fa-fw"></i> Anmelden</b></a>
+</li>
+<li>
+<a data-toggle="modal" data-target="#register" href="#"><b><i class="fa fa-pencil-square-o fa-fw"></i> Registrieren</b>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+<style>
+        .slider-title
+        {
+            max-width: 600px;
+        }
+    </style>
+<div class="slider" id="slider-container" data-slider="" style="background-image: url('/assets/img/backgrounds/header_2018.jpg'); width: 100%; height: 100%; max-height: 800px; background-size: cover;">
+<div class="slide">
+<div class="container slide-container">
+<div class="row">
+<div class="col-xs-12">
+<div class="slider-title">
+<div class="pre">
+Miete dir deinen eigenen
+</div>
+<div class="caption">
+Rootserver
+</div>
+<div class="text-uppercase lead">
+Beliebige Up- und Downgrade Möglichkeiten - inklusive DDoS-Protection
+</div>
+ </div>
+<div class="clearfix mt3">
+<a href="https://mc-host24.de/rootserver-mieten" class="btn btn-success btn-lg">Weitere Informationen <i class='fa fa-caret-right' aria-hidden='true'></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide">
+<div class="container slide-container">
+<div class="row">
+<div class="col-xs-12">
+<div class="slider-title">
+<div class="pre">
+Sichere dir jetzt deine eigene
+</div>
+<div class="caption">
+Domain
+</div>
+<div class="note">
+Bereits ab 6 € pro Jahr
+</div>
+</div>
+<div>
+<a href="https://mc-host24.de/domain-mieten" class="btn btn-success btn-lg">Jetzt bestellen</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide">
+<div class="container slide-container">
+<div class="row">
+<div class="col-xs-12">
+<div class="slider-title">
+<div class="pre">
+Für euren Clan
+</div>
+<div class="caption">
+Teamspeak Server
+</div>
+<div class="note">
+Beste Sprachqualität und optimale DDoS-Protection
+</div>
+</div>
+<div>
+<a href="https://mc-host24.de/teamspeak-server-mieten" class="btn btn-success btn-lg">Jetzt bestellen</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide">
+<div class="container slide-container">
+<div class="row">
+<div class="col-xs-12">
+<div class="slider-title">
+<div class="pre">
+Miete dir deinen eigenen
+</div>
+<div class="caption">
+Minecraft-Server
+</div>
+<div class="note">
+Keine Slotbegrenzung - inklusive DDoS-Protection
+</div>
+</div>
+<div>
+<a href="https://mc-host24.de/minecraft-server-mieten" class="btn btn-success btn-lg">Weitere Informationen <i class='fa fa-caret-right' aria-hidden='true'></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden-xs hidden-sm" style="position: absolute; right: 160px; top: 100px;width: 512px;">
+<div class="wow animated fadeInUp panel panel-default material" id="registerformpanel2" data-wow-delay="1s">
+<div class="panel-body" id="registration2_form_panel_body">
+<div class="text-center">
+<span class="h3">Jetzt kostenlos und unverbindlich registrieren</span>
+</div>
+<br><br>
+<form data-ajax="https://mc-host24.de/register" data-callback="registerModalCallback" method="post" id="registerform2" name="registerform2">
+<div class="alert-wrapper"></div>
+<input type="hidden" name="_token" value="wo1k2JiqOoWPzadC9HNHdRiKZPU90l8K8rrWCm5k">
+<div class="row" style="padding-bottom: 10px;">
+<div class="col-md-12">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="fa fa-user fa-fw"></i>
+</span>
+<input type="text" class="form-control" name="username" placeholder="Benutzername"><br>
+</div>
+</div>
+</div>
+<div class="row" style="padding-bottom: 10px;">
+<div class="col-md-12">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="fa fa-envelope fa-fw"></i>
+</span>
+<input type="text" class="form-control" name="email" placeholder="E-Mail"><br>
+</div>
+</div>
+</div>
+<div class="row" style="padding-bottom: 10px;">
+<div class="col-md-12">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="fa fa-key fa-fw"></i>
+</span>
+<input type="password" class="form-control" name="password" placeholder="Passwort">
+</div>
+</div>
+</div>
+<div class="row" style="padding-bottom: 10px;">
+<div class="col-md-12">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="fa fa-key fa-fw"></i>
+</span>
+<input type="password" class="form-control" name="password_confirmation" placeholder="Passwort wiederholen">
+</div>
+</div>
+</div>
+<div id="recaptcha2" class="recaptcha"></div>
+<br />
+<input type="hidden" name="AgreeTerms" value="true" />
+<button type="submit" class="btn btn-success pull-right">
+Kostenlos registrieren <i class="fa fa-caret-right"></i>
+</button>
+</form>
+</div>
+<div class="panel-body text-center" id="registration2_form_panel_body_working" style="display: none;">
+<br>
+<div>
+<i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i><br><br>
+<h3>Deine Registrierung wird bearbeitet...</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid bg-gray">
+<div class="container mt3">
+<div class="row">
+<div class="col-xs-12">
+<h2 class="text-center">Deine <b>Vorteile</b> bei <b>MC-HOST24</b>:</h2>
+</div>
+</div>
+<div class="row mt4">
+<div class="col-xs-12 col-sm-4">
+<div class="text-center">
+<article>
+<img src="/assets/img/ui/icons8-money-100.png" style="width: 60px" title="Prepaidsystem" aria-hidden="true" alt="Prepaidsystem">
+<header>
+<h3>Prepaidsystem</h3>
+</header>
+<p class="" style="font-size: 15px; margin-top: 2px">Bei uns gibt es keine Mahnungen. Wenn du dein Produkt nicht mehr möchtest reicht es aus, wenn du es einfach nicht mehr verlängerst.</p>
+</article>
+</div> </div>
+<div class="col-xs-12 col-sm-4">
+<div class="text-center">
+<article>
+<img src="/assets/img/ui/icons8-web-shield-100.png" style="width: 60px" title="DDoS-Protection" aria-hidden="true" alt="DDoS-Protection">
+<header>
+<h3>DDoS-Protection</h3>
+</header>
+<p class="" style="font-size: 15px; margin-top: 2px">Unsere Server sind mit einem erweiterten DDoS-Schutz ausgestattet, um dein Produkt auch bei einem Angriff aufrecht erhalten zu können.</p>
+</article>
+</div> </div>
+<div class="col-xs-12 col-sm-4">
+<div class="text-center">
+<article>
+<img src="/assets/img/ui/icons8-upload-to-the-cloud-100.png" style="width: 60px" title="Sofort online" aria-hidden="true" alt="Sofort online">
+<header>
+<h3>Sofort online</h3>
+</header>
+<p class="" style="font-size: 15px; margin-top: 2px">Jedes Produkt wird sofort eingerichtet und steht nur wenige Sekunden nach der Bestellung schon zur Verfügung.</p>
+</article>
+</div> </div>
+</div>
+<div class="row mt3">
+<div class="col-xs-12 col-sm-4">
+<div class="text-center">
+<article>
+<img src="/assets/img/ui/icons8-support-100.png" style="width: 60px" title="Schneller Support" aria-hidden="true" alt="Schneller Support">
+<header>
+<h3>Schneller Support</h3>
+</header>
+<p class="" style="font-size: 15px; margin-top: 2px">Unser Kundensupport steht dir über zahlreiche Kontaktmöglichkeiten zur Verfügung. Wann immer du dein Produkt bei uns nutzen möchtest, wir stehen dir bei allen Fragen zur Seite.</p>
+</article>
+</div> </div>
+<div class="col-xs-12 col-sm-4">
+<div class="text-center">
+<article>
+<img src="/assets/img/ui/icons8-hardware-100.png" style="width: 60px" title="Hochwertige Hardware" aria-hidden="true" alt="Hochwertige Hardware">
+<header>
+<h3>Hochwertige Hardware</h3>
+</header>
+<p class="" style="font-size: 15px; margin-top: 2px">Alle Server sind mit leistungsstarken Intel Xeon Prozessoren, SSD-Festplatten und ausfallsicherem Arbeitsspeicher ausgestattet.</p>
+</article>
+</div> </div>
+<div class="col-xs-12 col-sm-4">
+<div class="text-center">
+<article>
+<img src="/assets/img/ui/icons8-greentech-100.png" style="width: 60px" title="100% Ökostrom" aria-hidden="true" alt="100% Ökostrom">
+<header>
+<h3>100% Ökostrom</h3>
+</header>
+<p class="" style="font-size: 15px; margin-top: 2px">Ein verantwortlicher Umgang mit der Umwelt ist uns sehr wichtig. Aus diesem Grund laufen alle Server mit 100% Ökostrom.</p>
+</article>
+</div> </div>
+</div>
+<div class="row mt4"></div>
+</div>
+<div class="container mt3"></div>
+</div>
+<div class="container-fluid">
+<div style="max-width: 1400px; margin: auto;" class="mt3">
+<div class="row mt3 mb3">
+<div class="col-md-12">
+<div class="row">
+<div class="col-xs-12 text-center">
+<h2>Unsere Produkte</h2>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-offset-2 text-center col-sm-8">
+<p class="lead">
+Wir bieten hochwertige Minecraft-Server, Teamspeak-Server, Rootserver, Webspaces und Domains auf Prepaid-Basis
+an. Jedes Produkt wird nach der Bestellung automatisch freigeschaltet und kann sofort genutzt werden.
+</p>
+</div>
+</div>
+<div class="row mt3 keep-size">
+<div class="col-xs-12 col-sm-3">
+<div class="trait">
+<div class="trait-picture" style="background-image: url('https://mc-host24.de/assets/img/products/root.png'); height: 180px;">
+</div>
+<div class="panel">
+<div class="panel-body">
+<article>
+<header>
+<h3 class="text-uppercase text-center font-weight-bold mt0">
+<span class="h5 text-muted text-center" aria-hidden="true">Eigenen</span>
+<br>
+<b>Rootserver</b>
+</h3>
+</header>
+<p class="">Auf einem Rootserver kannst du jede beliebige Anwendung installieren. Egal ob Teamspeak-Server, Gameserver, Webseite uvm.
+In Kombination mit unserem DDoS-Schutz ist ein Rootserver die perfekte Wahl für jegliche Projekte.
+Du erhälst vollen SSH Zugriff und ein Interface zur Verwaltung.</p>
+</article>
+<div class="text-center mt2">
+<span class="h3 text-muted">Ab</span>
+<span class="h1">3,35€</span>
+<span class="h3 text-muted">pro Monat</span>
+</div>
+<div class="mt2">
+<a class="btn btn-link btn-lg pull-right" data-al-action="More information button" href="/rootserver-mieten">Los geht's<i class="fa fa-caret-right fa-fw"></i></a>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="col-xs-12 col-sm-3">
+<div class="trait">
+<div class="trait-picture" style="background-image: url('https://mc-host24.de/assets/img/products/minecraft.png'); height: 180px;">
+</div>
+<div class="panel">
+<div class="panel-body">
+<article>
+<header>
+<h3 class="text-uppercase text-center font-weight-bold mt0">
+<span class="h5 text-muted text-center" aria-hidden="true">Eigenen</span>
+<br>
+<b>Minecraftserver</b>
+</h3>
+</header>
+<p class="">Wir hosten deinen Minecraft-Server auf leistungsstarker Serverhardware direkt in Frankfurt am Main.
+In unserem speziell auf Minecraft entwickelten Interface erhältst du Zugriff auf über 200 nützliche Funktionen.
+Der Server ist sofort online und kann direkt nach der Bestellung genutzt werden.</p>
+</article>
+<div class="text-center mt2">
+<span class="h3 text-muted">Ab</span>
+<span class="h1">3,00€</span>
+<span class="h3 text-muted">pro Monat</span>
+</div>
+<div class="mt2">
+<a class="btn btn-link btn-lg pull-right" data-al-action="More information button" href="/minecraft-server-mieten">Los geht's<i class="fa fa-caret-right fa-fw"></i></a>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="col-xs-12 col-sm-3">
+<div class="trait">
+<div class="trait-picture" style="background-image: url('https://mc-host24.de/assets/img/products/ts3.png'); height: 180px;">
+</div>
+<div class="panel">
+<div class="panel-body">
+<article>
+<header>
+<h3 class="text-uppercase text-center font-weight-bold mt0">
+<span class="h5 text-muted text-center" aria-hidden="true">Eigenen</span>
+<br>
+<b>Teamspeak-Server</b>
+</h3>
+</header>
+<p class="">Über einen Teamspeak-Server kannst du mit anderen Benutzern kommunizieren, chatten und Dateien austauschen.
+Unsere Teamspeak-Server sind für eine erstklassige Anbindung und DDoS-Protection bekannt.
+Große YouTuber und Netzwerke vertrauen auf unsere Teamspeak-Server.</p>
+</article>
+<div class="text-center mt2">
+<span class="h3 text-muted">Ab</span>
+<span class="h1">0,80€</span>
+<span class="h3 text-muted">pro Monat</span>
+</div>
+<div class="mt2">
+<a class="btn btn-link btn-lg pull-right" data-al-action="More information button" href="https://mc-host24.de/teamspeak-server-mieten">Los geht's<i class="fa fa-caret-right fa-fw"></i></a>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="col-xs-12 col-sm-3">
+<div class="trait">
+<div class="trait-picture" style="background-image: url('https://mc-host24.de/assets/img/products/domain.png'); height: 180px;">
+</div>
+<div class="panel">
+<div class="panel-body">
+<article>
+<header>
+<h3 class="text-uppercase text-center font-weight-bold mt0">
+<span class="h5 text-muted text-center" aria-hidden="true">Eigenen</span>
+<br>
+<b>Webspaces</b>
+</h3>
+</header>
+<p class="">Finde deinen passenden Webspace für dein nächstes Web-Projekt
+mit Datenbanken, E-Mail-Konten, FTP-Zugang und schnellem Festplatten-
+Speicher individueller Konfiguration. Unsere Webspaces sind
+für eine erstklassige Anbindung und DDoS-Protection bekannt.
+<br><br></p>
+</article>
+<div class="text-center mt2">
+<span class="h3 text-muted">Ab</span>
+<span class="h1">3,00€</span>
+<span class="h3 text-muted">pro Monat</span>
+</div>
+<div class="mt2">
+<a class="btn btn-link btn-lg pull-right" data-al-action="More information button" href="https://mc-host24.de/webspace-mieten">Los geht's<i class="fa fa-caret-right fa-fw"></i></a>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid bg-gray mt1">
+<div class="container mt4 mb4">
+<div class="row">
+<div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8">
+<h1><b>Jetzt loslegen</b>. Miete deinen nächsten Server deiner Wahl.</h1>
+<p class="lead">
+Dank langjähriger Erfahrung können wir unseren Kunden einen professionellen
+Kundendienst über zahlreiche Supportmöglichkeiten anbieten. Wir sind völlig
+transparent, bei uns gibt es garantiert keine versteckten Kosten.
+<br><br>
+Wenn du Fragen zu unseren Produkten hast, hilft dir unser
+<a href="/support">Support</a> gerne weiter.
+</p>
+<div class="text-center">
+<a class="btn btn-link btn-lg" href="https://mc-host24.de/rootserver-mieten">Rootserver mieten <i class="fa fa-caret-right"></i></a>
+<a class="btn btn-link btn-lg" href="https://mc-host24.de/minecraft-server-mieten">Minecraftserver mieten <i class="fa fa-caret-right"></i></a>
+<a class="btn btn-link btn-lg" href="https://mc-host24.de/webspace-mieten">Webspace und Domain <i class="fa fa-caret-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid bg-white">
+<div class="container mt4 mb4">
+<div class="row">
+<div class="col-md-8">
+<h1><b>Einfache Verwaltung</b>. Immer und von Überall aus.</h1>
+<p class="lead">
+Mit unserer kostenfreien App für iOS und Android kannst du auch von unterwegs deine Server einfach verwalten.
+</p>
+<ul>
+<li>Start, Stop, Neustart</li>
+<li>Überwachung der Auslastung</li>
+<li>Backups verwalten</li>
+<li>Server verlängern</li>
+</ul>
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.mchost24app&gl=DE">
+<img src="/assets/img/google-play-badge.png" height="75">
+</a>
+<a target="_blank" href="https://apps.apple.com/us/app/mc-host24/id1492171399">
+<img src="/assets/img/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg" height="50">
+</a>
+</div>
+<div class="col-md-4">
+<img src="/assets/img/app/Front.png" style="width: 100%">
+</div>
+</div>
+</div>
+</div>
+<section class="container-fluid header-image" style="background-image: url('/assets/img/backgrounds/server_side.jpeg');" id="rating-footer">
+<div class="overlay">
+<div class="container mt2 text-center">
+<div class="row">
+<div class="col-xs-12">
+<h1 class="text-uppercase white">Unsere Kunden lieben uns!</h1>
+<p class="lead white">Wir wurden mit <span>4.5</span> von <span>5</span> auf Trustpilot bewertet, basierend auf <span>546</span> Bewertungen.</p>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+<div class="cc-wrapper">
+<div id="ca-container" class="ca-container">
+<div class="ca-wrapper">
+<div class="ca-item material ca-item-49">
+<div class="ca-item-main">
+<div><div class="stars stars-example-fontawesome">
+<select name="rating" id="ca-review-49-rating">
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+</select>
+</div>
+</div>
+<h3><a href="https://de.trustpilot.com/reviews/5f341ff41a5a69026848bfc4" target="_blank">Bewertung an MC-Host24 |...</a></h3>
+<small><b>Netter und kompetenter Support. Auch wenn man manchmal etwas länger warten muss, ist der Support echt engagiert. Mich würde es freuen, wenn der TS Support aktiver betreut wird und/oder auch in...</b></small>
+<div class="clearfix"><small>Lucas Schopf am 27.08.2020</small></div>
+</div>
+</div>
+<div class="ca-item material ca-item-48">
+ <div class="ca-item-main">
+<div><div class="stars stars-example-fontawesome">
+<select name="rating" id="ca-review-48-rating">
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+</select>
+</div>
+</div>
+<h3><a href="https://de.trustpilot.com/reviews/5f2c5b921a5a69073c6e4850" target="_blank">Einfach Super!</a></h3>
+<small><b>Einfach Super!
+Das Preis-Leistungsverhältnis ist Top! Ich hatte aber ein Problem mit meinem Produkt, dies wurde aber schnell, dank dem netten Support, behoben. Kann ich nur weiterempfehlen!</b></small>
+<div class="clearfix"><small>Peaceman am 27.08.2020</small></div>
+</div>
+</div>
+<div class="ca-item material ca-item-47">
+<div class="ca-item-main">
+<div><div class="stars stars-example-fontawesome">
+<select name="rating" id="ca-review-47-rating">
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+</select>
+</div>
+</div>
+<h3><a href="https://de.trustpilot.com/reviews/5f2419981a5a690a041c9232" target="_blank">Super Host</a></h3>
+<small><b>Habe mir einen Root Server und eine Domain geholt und bin viel mehr als zufrieden, mit dem Server und der Domain. Die Performance ist super gut und es gab keine downtime
+Super Host weiter zu...</b></small>
+<div class="clearfix"><small>Philgamer _HD am 27.08.2020</small></div>
+</div>
+</div>
+<div class="ca-item material ca-item-46">
+<div class="ca-item-main">
+<div><div class="stars stars-example-fontawesome">
+<select name="rating" id="ca-review-46-rating">
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+</select>
+</div>
+</div>
+<h3><a href="https://de.trustpilot.com/users/5c687868eed440559ef16a5d" target="_blank">Bester Hosting Service den es...</a></h3>
+<small><b>Der Service ist sehr zu empfehlen, ich bin immer zu 100% zufrieden und auch der Support hat mir immer sehr gut weiter geholfen, wirklich der beste Server Hosting Service den es gibt.
+</b></small>
+<div class="clearfix"><small>Luca Wolter am 27.08.2020</small></div>
+</div>
+</div>
+<div class="ca-item material ca-item-45">
+<div class="ca-item-main">
+<div><div class="stars stars-example-fontawesome">
+<select name="rating" id="ca-review-45-rating">
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+</select>
+</div>
+</div>
+<h3><a href="https://de.trustpilot.com/reviews/5f1dac361a5a69071c961082" target="_blank">Top Support</a></h3>
+<small><b>Mir wurde bisher immer geholfen, und auch vorbereitet,
+Top Support :D</b></small>
+<div class="clearfix"><small>Red Reaper Lp am 27.08.2020</small></div>
+</div>
+</div>
+<div class="ca-item material ca-item-44">
+<div class="ca-item-main">
+<div><div class="stars stars-example-fontawesome">
+<select name="rating" id="ca-review-44-rating">
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+</select>
+</div>
+</div>
+<h3><a href="https://de.trustpilot.com/reviews/5f1838611a5a69071c92cfde" target="_blank">Discord Bots auf einem Root...</a></h3>
+<small><b>Hey, ihr braucht Hilfe in Sachen: &quot;Discord Bots&quot;.
+Dann kann ich euch MC-Host24 empfehlen.
+Ich habe vor kurzem angefangen mir eigene Bots zu programmieren, dafür habe ich mich für Python...</b></small>
+<div class="clearfix"><small>Support Chillsucht am 22.07.2020</small></div>
+</div>
+</div>
+<div class="ca-item material ca-item-43">
+<div class="ca-item-main">
+<div><div class="stars stars-example-fontawesome">
+<select name="rating" id="ca-review-43-rating">
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+</select>
+</div>
+</div>
+<h3><a href="https://de.trustpilot.com/reviews/5f1756671a5a69075063e8cd" target="_blank">super schneller service top...</a></h3>
+<small><b>super schneller service top leistung sehr effektiv .. ganz das gegenteil von anderen anbietern wo ich war</b></small>
+<div class="clearfix"><small>Martin Jenß am 21.07.2020</small></div>
+</div>
+</div>
+<div class="ca-item material ca-item-5">
+<div class="ca-item-main">
+<div><div class="stars stars-example-fontawesome">
+<select name="rating" id="ca-review-5-rating">
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+<option value="5">5</option>
+</select>
+</div>
+</div>
+<h3><a href="https://de.trustpilot.com/reviews/587d3045b9ac210a8cad2c99" target="_blank">Eigentlich Perfekt!!!</a></h3>
+<small><b>Vorab möchte ich sagen, dass ich diese Bewertung aus Eigeninitiative schreibe, weder MC-HOST24 noch eine andere Person hat mich dazu aufgefordert dies zu tun.
+Nun einmal zu mir selbst, ich...</b></small>
+<div class="clearfix"><small>Steven Kahler am 30.01.2017</small></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container mt3"></div>
+</div>
+</section>
+<script>
+    $(document).ready(function(){
+        $('#ca-container').contentcarousel();
+    });
+</script>
+</div>
+<footer class="container-fluid" id="footer">
+<div class="container">
+<div class="row footer-body">
+<div class="col-md-2">
+<h4>Folge uns</h4>
+<span class="h4">
+<a title="MC-HOST24 auf Facebook" href="https://www.facebook.com/mchost24de/" class=""><i class="fa fa-facebook-square fa-icon fa-3x" aria-hidden="true"></i></a>
+<a title="MC-HOST24 auf Twitter" href="https://twitter.com/mchost24?lang=de" class=""><i class="fa fa-twitter-square fa-icon fa-3x" aria-hidden="true"></i></a>
+<a title="MC-HOST24 auf YouTube" href="https://www.youtube.com/user/Mchost24de" class=""><i class="fa fa-youtube-square fa-icon fa-3x" aria-hidden="true"></i></a>
+</span>
+</div>
+<div class="col-md-3">
+<h4>Produkte</h4>
+<ul class="list-unstyled">
+<li><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i> <a title="Rootserver mieten" href="https://mc-host24.de/rootserver-mieten">Rootserver mieten</a></li>
+<li><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i> <a title="Minecraftserver mieten" href="https://mc-host24.de/minecraft-server-mieten">Minecraft-Server mieten</a></li>
+<li><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i> <a title="Teamspeak mieten" href="https://mc-host24.de/teamspeak-server-mieten">Teamspeak mieten</a></li>
+<li><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i> <a title="Domain mieten" href="https://mc-host24.de/domain-mieten">Domain mieten</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4>Über uns</h4>
+<ul class="list-unstyled">
+<li><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i> <a title="Technik und Server" href="https://mc-host24.de/technik">Technik und Server</a></li>
+<li><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i> <a title="Information für Eltern" href="https://mc-host24.de/elterninfo">Informationen für Eltern</a></li>
+<li><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i> <a title="Support" href="https://mc-host24.de/support">Support</a><br></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4>Informationen</h4>
+<ul class="list-unstyled">
+<li><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i> <a href="https://mc-host24.de/agb">AGB</a></li>
+<li><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i> <a href="https://mc-host24.de/widerruf">Widerrufsbelehrung</a></li>
+<li><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i> <a href="https://mc-host24.de/datenschutz">Datenschutz</a></li>
+<li><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i> <a href="https://mc-host24.de/imprint">Impressum</a><br></li>
+</ul>
+</div>
+</div>
+<div class="row mt3">
+<div class="col-xs-12 text-center">
+<div class="pull-left hidden">
+<a href="/">
+<img style="max-height: 14px; margin-top: 26px; filter: grayscale(1);" aria-hidden="true" class="sr-hidden img-responsive" src="/assets/img/logo_footer.png" title="MC-Host24" alt="MC-Host24">
+</a>
+</div>
+<div class="pull-right hidden">
+ <a href="https://www.haendlerbund.de/mitglied/show.php?uuid=bc06a518-c253-11e4-bc3a-14dae9b38da3-2109716713" target="_blank">
+<img style="max-height: 40px; filter: grayscale(1);" aria-hidden="true" class="sr-hidden img-responsive" src="https://www.haendlerbund.de/mitglied/logo.php?uuid=bc06a518-c253-11e4-bc3a-14dae9b38da3-2109716713&amp;size=120&amp;variant=1" title="Händlerbund Mitglied" alt="Mitglied im Händlerbund">
+</a>
+</div>
+<div class="clearfix mt4 text-center">
+<span class="small text-muted">
+Alle Preise enthalten die gesetzliche Mehrwertsteuer.
+<br>
+Es gelten die <a title="AGB" class="text-muted" href="/agb">AGB</a> von MC-HOST24.de.
+</span>
+<br>
+<div class="text-center mt2">
+Copyright MC-HOST24 / Gericke KG &copy; 2012-2020
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript">
+    function notify(text, style) {
+        $(document).ready(function () {
+            noty({
+                layout: 'bottomRight',
+                type: style,
+                text: text,
+                timeout: 15000
+            });
+        });
+    }
+</script>
+<div class="modal fade" id="ramempfehlung" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div style="background-color: #47A447;" class="modal-header">
+<button type="button" class="close" data-dismiss="modal">
+<span aria-hidden="true">&times;</span>
+<span class="sr-only">Schließen</span>
+</button>
+<h4 class="modal-title" id="meinModalLabel">Arbeitsspeicher Empfehlung</h4>
+</div>
+<div class="modal-body">
+<div class="alert alert-warning" role="alert">An der unten stehenden Tabelle solltest du dich bei
+der Wahl deines Arbeitsspeichers orientieren.<br>
+Der Arbeitsspeicher kann später immer noch verändert werden.
+</div>
+<table class="table table-hover">
+<tr class="success">
+<td>Arbeitsspeicher</td>
+<td>empfohlene Slotanzahl</td>
+<td>empfohlene Slotanzahl Modpack</td>
+</tr>
+<tr>
+<td>1 GB</td>
+<td>5 - 10 Spieler</td>
+<td>3 - 8 Spieler</td>
+</tr>
+<tr>
+<td>2 GB</td>
+<td>10 - 20 Spieler</td>
+<td>8 - 15 Spieler</td>
+</tr>
+<tr>
+<td>3 GB</td>
+<td>20 - 30 Spieler</td>
+<td>15 - 22 Spieler</td>
+</tr>
+<tr>
+<td>4 GB</td>
+<td>30 - 40 Spieler</td>
+<td>25 - 32 Spieler</td>
+</tr>
+<tr>
+<td>5 GB</td>
+<td>40 - 50 Spieler</td>
+<td>32 - 38 Spieler</td>
+</tr>
+<tr>
+<td>6 GB</td>
+<td>50 - 60 Spieler</td>
+<td>38 - 44 Spieler</td>
+</tr>
+<tr>
+<td>8 GB</td>
+<td>über 80 Spieler</td>
+<td>45 - 50 Spieler</td>
+</tr>
+<tr>
+<td>10 GB</td>
+<td>über 100 Spieler</td>
+<td>50 - 62 Spieler</td>
+</tr>
+<tr>
+<td>12 GB</td>
+<td>über 110 Spieler</td>
+<td>62 - 70 Spieler</td>
+</tr>
+<tr>
+<td>16 GB</td>
+<td>über 150 Spieler</td>
+<td>70 - 82 Spieler</td>
+</tr>
+<tr>
+<td>24 GB</td>
+<td>über 200 Spieler</td>
+<td>85 - 95 Spieler</td>
+</tr>
+</table>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">schließen</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal modal-black fade" id="anmelden" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="text-right clearfix">
+<a href="#" class="pull-right clearfix" data-dismiss="modal">
+<img class="hidden-xs" style="margin-right: 32px; width: 60px;" src="/assets/img/ui/icons8-delete-white-100.png" alt="">
+<img class="visible-xs" style="margin-right: 12px; width: 24px;" src="/assets/img/ui/icons8-delete-white-100.png" alt="">
+</a>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-offset-3 col-sm-6">
+<div class="text-center mt2 mb2">
+<img src="/assets/img/logo/80px-mc-host24-logo.png" aria-hidden="true" class="logo" alt="">
+</div>
+<div class="modal-login">
+<form action="https://mc-host24.de/login" method="post">
+<input type="hidden" name="_token" value="wo1k2JiqOoWPzadC9HNHdRiKZPU90l8K8rrWCm5k">
+<label for="username" class="control-label">Benutzername / E-Mail:</label>
+<div class="input-group input-group-lg">
+<span class="input-group-addon">
+<img src="/assets/img/ui/icons8-minecraft-creeper-filled-100.png" style="width: 22px;" alt="">
+</span>
+<input type="text" id="username" class="form-control" name="username" placeholder="Benutzername / E-Mail"><br>
+</div>
+<br />
+<label for="password" class="control-label">Passwort:</label>
+<div class="input-group input-group-lg">
+<span class="input-group-addon">
+<img src="/assets/img/ui/icons8-key-2-100.png" style="width: 22px;" alt="">
+</span>
+<input type="password" id="password" class="form-control" name="password" placeholder="Passwort">
+</div>
+<br>
+<div class="clearfix">
+<a class="btn btn-link btn-lg" data-dismiss="modal" data-toggle="modal" data-target="#passwort" href="#">Passwort vergessen?</a>
+<button type="submit" class="btn btn-success btn-lg pull-right">Einloggen<i class="fa fa-caret-right fa-fw"></i></button>
+</div>
+<input type="hidden" name="sideurl" value="/">
+</form>
+<div class="clearfix mt1">
+<hr>
+</div>
+<div class="text-center mt2">
+<p class="lead font-weight-bold">
+<b>Noch keinen Account? <a data-dismiss="modal" data-toggle="modal" data-target="#register" href="#">Jetzt registrieren <i class="fa fa-caret-right"></i></a></b>
+</p>
+</div>
+<div class="text-center">
+<button type="button" class="btn btn-link btn-lg" data-dismiss="modal">Schließen</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> <div class="modal modal-black fade" id="passwort" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="text-right">
+<a href="#" class="pull-right" data-dismiss="modal">
+<img class="hidden-xs" style="margin-right: 32px; width: 60px;" src="/assets/img/ui/icons8-delete-white-100.png" alt="">
+<img class="visible-xs" style="margin-right: 12px; width: 24px;" src="/assets/img/ui/icons8-delete-white-100.png" alt="">
+</a>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-offset-3 col-sm-6">
+<div class="text-center mt2 mb2">
+<img src="/assets/img/logo/80px-mc-host24-logo.png" aria-hidden="true" class="logo" alt="">
+<h2 class="mt white">- Passwort-Zurücksetzen - </h2>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-sm-offset-3 col-sm-6">
+<form action="https://mc-host24.de/password/email" method="post">
+<input type="hidden" name="_token" value="wo1k2JiqOoWPzadC9HNHdRiKZPU90l8K8rrWCm5k">
+<p class="lead-md text-center">
+Wenn du dein Passwort vergessen hast, gebe deinen
+Benutzernamen und die dazugehörige E-Mail an. Im Anschluss
+erhälst du einen Link per E-Mail.
+</p>
+<label for="username" class="control-label">Benutzername / E-Mail:</label>
+<div class="input-group input-group-lg">
+<span class="input-group-addon">
+<img src="/assets/img/ui/icons8-minecraft-creeper-filled-100.png" style="width: 22px;" alt="">
+</span>
+<input type="text" id="username" class="form-control" name="username" placeholder="Benutzername / E-Mail"><br>
+</div>
+<br>
+<button type="submit" class="btn btn-success btn-lg btn-block">Passwort zurücksetzen <i class="fa fa-caret-right"></i></button>
+<br>
+<a href="#" data-dismiss="modal" class="btn btn-link btn-block">Schließen</a>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal modal-black fade" id="register" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="text-right clearfix">
+<a href="#" class="pull-right clearfix" data-dismiss="modal">
+<img class="hidden-xs" style="margin-right: 32px; width: 60px;" src="/assets/img/ui/icons8-delete-white-100.png" alt="">
+<img class="visible-xs" style="margin-right: 12px; width: 24px;" src="/assets/img/ui/icons8-delete-white-100.png" alt="">
+</a>
+</div>
+<div role="tablist" aria-multiselectable="true">
+<div id="reg_acc">
+<div class="panel register-panel">
+<div id="step-register-form" aria-expanded="true" data-parent="#reg_acc" role="tabpanel" class="collapse in">
+<form id="register-form-core" data-ajax="https://mc-host24.de/register" data-callback="registerModalCallback" method="post">
+<div class="container modal-login">
+<div class="row">
+<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
+<div class="text-center mt2 mb2" style="border-bottom: 2px solid rgb(0,212, 60);">
+<img src="/assets/img/logo/80px-mc-host24-logo.png" aria-hidden="true" class="logo" alt="">
+<h2 class="mt white">Kostenlos registrieren:</h2>
+</div>
+<div class="" id="registration_form_panel_body">
+<p class="white lead">
+Erstelle dir kurz ein kostenloses und unverbindliches Benutzerkonto,
+um dein Guthaben aufladen und Bestellungen tätigen zu können.
+</p>
+<div class="alert-wrapper"></div>
+<br>
+<input type="hidden" name="_token" value="wo1k2JiqOoWPzadC9HNHdRiKZPU90l8K8rrWCm5k">
+Benutzername:
+<div class="input-group input-group-lg">
+<span class="input-group-addon">
+<i class="fa fa-user fa-fw"></i>
+</span>
+<input type="text" class="form-control" name="username" placeholder="Benutzername"><br>
+</div><br>
+E-Mail:
+<div class="input-group input-group-lg">
+<span class="input-group-addon">
+<i class="fa fa-envelope fa-fw"></i>
+</span>
+<input type="text" class="form-control" name="email" placeholder="E-Mail"><br>
+</div><br>
+Passwort:
+<div class="input-group input-group-lg">
+<span class="input-group-addon">
+<i class="fa fa-key fa-fw"></i>
+</span>
+<input type="password" class="form-control" name="password" placeholder="Passwort">
+</div><br>
+Passwort wiederholen:
+<div class="input-group input-group-lg">
+<span class="input-group-addon">
+<i class="fa fa-key fa-fw"></i>
+</span>
+<input type="password" class="form-control" name="password_confirmation" placeholder="Passwort wiederholen">
+</div><br />
+ <div id="recaptcha1" class="recaptcha"></div>
+<input type="hidden" name="AgreeTerms" value="true" />
+<div class="cleafix mt3 mb3">
+<button type="submit" class="btn btn-success btn-lg btn-block">
+Kostenlos registrieren <i class="fa fa-caret-right"></i>
+</button>
+<div class="text-center mt1">
+<button type="button" class="btn btn-link btn-block text-muted btn-lg" data-dismiss="modal">Schließen</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+<div class="panel register-panel" aria-hidden="true">
+<div id="step-register-done" aria-expanded="false" data-parent="#reg_acc" role="tabpanel" class="collapse"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<nav id="mobile-nav" class="nav material navbar-fixed-bottom visible-xs">
+<div class="row">
+<div class="col-xs-6" style="margin: 0; padding: 0;">
+<a href="#register" data-target="#register" data-toggle="modal" class="btn btn-default btn-block" style="box-shadow: none !important;">Registrieren</a>
+</div>
+<div class="col-xs-6" style="margin: 0; padding: 0;">
+<a href="#anmelden" data-toggle="modal" class="btn btn-success btn-block" style="box-shadow: none !important;">Anmelden</a>
+</div>
+</div>
+</nav>
+<script src="/assets/js/jquery-ui.min.js?reload=v1"></script>
+<script src="/assets/js/bootstrap.min.js?reload=v1"></script>
+<script src="/assets/js/datatables/jquery.dataTables.min.js?reload=v3"></script>
+<script src="/assets/js/datatables/dataTables.bootstrap.min.js?reload=v3"></script>
+<script src="/bower/custom-ls/custom-ls.js?reload=4"></script>
+<script src="/assets/js/noty/packaged/jquery.noty.packaged.min.js?reload=v1"></script>
+<script src="/assets/js/jquery.easing.1.3.js?reload=v1"></script>
+<script src="/assets/js/smoothscroll.js?reload=1"></script>
+<script src="/assets/js/js.cookie.js?reload=1"></script>
+<script src='https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&render=explicit' defer></script>
+<script src="/assets/js/bootbox.min.js?reload=v1"></script>
+<script src="/assets/js/jquery.contentcarousel.js?reload=v1"></script>
+<script src="/assets/js/jquery.barrating.min.js?reload=v2"></script>
+<script src="/assets/js/select2.min.js?reload=v1"></script>
+<script src="/assets/vendor/slick/slick.js"></script>
+<script src="/assets/js/script.js"></script>
+<script type="text/javascript">
+        function two_numerics(n) {
+        var placeholder = "";
+        if(n<10 && n != 0) placeholder += "0";
+        return placeholder + n;
+    }
+
+    var recaptcha1;
+    var recaptcha2;
+
+    var recaptchaCallback = function()
+    {
+        if($("#recaptcha1").length)
+        {
+            recaptcha1 = grecaptcha.render('recaptcha1', {
+                'sitekey' : '6LdEYCUTAAAAANleOBQ6VfFD0brZtZDCjM0M95vj', //Replace this with your Site key
+                'theme' : 'light'
+            });
+        }
+
+        if($("#recaptcha2").length)
+        {
+            recaptcha2 = grecaptcha.render('recaptcha2', {
+                'sitekey' : '6LdEYCUTAAAAANleOBQ6VfFD0brZtZDCjM0M95vj', //Replace this with your Site key
+                'theme' : 'light'
+            });
+        }
+    };
+</script>
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"Wir verwenden Cookies, damit wir dir ein optimales Nutzererlebnis bieten können.","dismiss":"Ok, verstanden","learnMore":"Mehr Infos","link":"https://mc-host24.de/imprint#datenschutz","theme":"light-floating"};
+</script>
+<script src="/assets/js/cookieconsent.min.js?reload=v1"></script>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-110578350-2', 'auto');
+    ga('set', 'anonymizeIp', true);
+    ga('send', 'pageview');
+</script> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-825199791"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-825199791');
+</script>
+<script>
+
+    function gtag_report_conversion(url) {
+        var callback = function () {
+            if (typeof(url) != 'undefined') {
+                window.location = url;
+            }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-825199791/vJKBCNaXo4UBEK-ZvokD',
+            'event_callback': callback
+        });
+        return false;
+    }
+</script>
+<style>
+        .register-panel
+        {
+            background-color: transparent;
+        }
+    </style>
+<script>
+        function registerModalCallback(data)
+        {
+            if(data.success)
+            {
+                if(!$("#register").hasClass("in"))
+                {
+                    $("#register").modal("show");
+                }
+
+                $("#step-register-done")
+                    .html(data.data.html)
+                    .collapse("show");
+
+                gtag_report_conversion();
+            }
+
+            try
+            {
+                console.log("Reload");
+                grecaptcha.reset(recaptcha1);
+                grecaptcha.reset(recaptcha2);
+
+                fbq('track', 'CompleteRegistration');
+            }
+
+            catch(e)
+            {
+            }
+        }
+    </script>
+<script type="text/javascript">
+        $('#ca-review-5-rating').barrating({
+            theme: 'fontawesome-stars',
+            showSelectedRating: false,
+            initialRating: 5,
+            readonly: true
+        });
+    </script>
+<script type="text/javascript">
+        $('#ca-review-43-rating').barrating({
+            theme: 'fontawesome-stars',
+            showSelectedRating: false,
+            initialRating: 5,
+            readonly: true
+        });
+    </script>
+<script type="text/javascript">
+        $('#ca-review-44-rating').barrating({
+            theme: 'fontawesome-stars',
+            showSelectedRating: false,
+            initialRating: 5,
+            readonly: true
+        });
+    </script>
+<script type="text/javascript">
+        $('#ca-review-45-rating').barrating({
+            theme: 'fontawesome-stars',
+            showSelectedRating: false,
+            initialRating: 5,
+            readonly: true
+        });
+    </script>
+<script type="text/javascript">
+        $('#ca-review-46-rating').barrating({
+            theme: 'fontawesome-stars',
+            showSelectedRating: false,
+            initialRating: 5,
+            readonly: true
+        });
+    </script>
+<script type="text/javascript">
+        $('#ca-review-47-rating').barrating({
+            theme: 'fontawesome-stars',
+            showSelectedRating: false,
+            initialRating: 5,
+            readonly: true
+        });
+    </script>
+<script type="text/javascript">
+        $('#ca-review-48-rating').barrating({
+            theme: 'fontawesome-stars',
+            showSelectedRating: false,
+            initialRating: 5,
+            readonly: true
+        });
+    </script>
+<script type="text/javascript">
+        $('#ca-review-49-rating').barrating({
+            theme: 'fontawesome-stars',
+            showSelectedRating: false,
+            initialRating: 5,
+            readonly: true
+        });
+    </script>
+<script>
+    $(document).ready(function() {
+        $('main').css('margin-top', $('#navbar-main').height());
+        $('#slider-container').css('margin-top', $('#navbar-main').height()-62);
+        $('.header-image .overlay-sm').css('padding-top', $('#navbar-main').height());
+        $('#order-header-container').css('padding-top', $('#navbar-main').height());
+        $('#order-header-container-video').css('margin-top', -1062+$('#navbar-main').height());
+    });
+</script>
+<div class="modal fade" id="generalModal" tabindex="-1" role="dialog">
+<div class="modal-dialog modal-lg" role="document">
+<div class="modal-content">
+<div class="modal-header" style="background-color: #47A447;">
+<button type="button" class="close" data-dismiss="modal" aria-label="Schließen"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title"></h4>
+</div>
+<div class="modal-body" id="generalModalContent">
+</div>
+</div>
+</div>
+</div>
+<script>
+    $.fn.dataTable.ext.errMode = 'none';
+</script>
+</body>
+</html>
+laravel_session
+XSRF-TOKEN
+__cfduid
+
+Process finished with exit code 0
